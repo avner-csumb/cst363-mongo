@@ -396,15 +396,18 @@ deleteOne, deleteMany
 
 ## More on BSON
 
-<div class="p-2">
+<div class="p-4">
 
 - Binary superset of JSON (extra types: `Date`, `Decimal128`, `ObjectId`, etc.)
 - Stored as flexible schema per document
 - Each collection = table analogue
 
-</div>
 
 <img src="/images/bson.webp" class="w-[40%] mx-auto" />
+
+</div>
+
+
 
 ---
 
