@@ -1,0 +1,21 @@
+{
+  "name": "mongo2",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify-json/carbon": "^1.2.14",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.9.0",
+    "gh-pages": "^6.3.0",
+    "playwright-chromium": "^1.52.0"
+  }
+}
